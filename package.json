@@ -6,9 +6,16 @@
     "@testing-library/jest-dom": "^5.11.10",
     "@testing-library/react": "^11.2.6",
     "@testing-library/user-event": "^12.8.3",
+    "jquery": "^3.6.0",
+    "particles-bg": "^2.5.5",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-ga": "^3.3.0",
+    "react-jquery-plugin": "^1.1.7",
+    "react-script-tag": "^1.1.2",
     "react-scripts": "4.0.3",
+    "react-zmage": "^0.8.5-beta.36",
+    "styled-components": "^5.2.3",
     "web-vitals": "^1.1.1"
   },
   "scripts": {
@@ -34,5 +41,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "babel-plugin-styled-components": "^1.12.0"
   }
 }

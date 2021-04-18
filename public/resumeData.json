@@ -1,0 +1,149 @@
+{
+  "main": {
+    "name":"Dharun Narayanan L K",
+    "description":"Student at Amrita Vishwa Vidyapeetham, Amateur Full-Stack Developer. Interested in ML/AI.",
+    "image":"profilepic.jpg",
+    "bio":"Hey, 👋 I'm Dharun Narayanan, a B.Tech Computer Science undergraduate student in AMRITA VISHWA VIDYAPEETHAM-COIMBATORE. I love exploring new technologies and often amazed by the progress we as a human species have made so far in recent years (apart from the in-box charger part!!). I have started reflecting my ideas and thougths through the medium of words recently so spelling and grammer mistakes are very often. You can write me back if you spot any.",
+    "contactmessage":"Get In Touch.",
+    "email": "lkdharun@gmail.com",
+    "phone": "+91 95973-42348",
+    "github":"https://github.com/dharun-narayanan",
+    "project":"https://github.com/dharun-narayanan?tab=repositories",
+    "address":{
+      "street":"66-3 Angalamman Street,",
+      "city":"Balaji Nagar 2nd Cross,",
+      "state":"Ammapet",
+      "zip": "Salem - 636003."
+    },
+    "website": "https://dharun-narayanan.github.io/me/",
+    "resumedownload":"https://1drv.ms/b/s!AuE0xx_ikcckkUpORPFhoFrPC2BI?e=vk9KCb",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/dharun.narayanan",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/dharun_official",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/_dharun_26/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/dharun-narayanan-l-k-407459197/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/dharun-narayanan",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"HERE ARE SOME OF MY EXPERTISE",
+    "education":[
+      {
+        "school":"AMRITA VISHWA VIDYAPEETHAM",
+        "degree":"B.Tech in Computer Science and Engineering",
+        "graduated":"2019-2023",
+        "description":"I am pursuing my under-graduation studies with major in CSE(Computer Science & Engineering). I have taken courses like DSA, OOPs, Flutter, Dart, Web Design over the years and have better understanding of these subjects."
+      },
+      {
+        "school":"Rasi International School",
+        "degree":"Primary and Higher Education",
+        "graduated":"2017-2019",
+        "description":"I have completed my higher secondary education with major subjects as Physics, Chemistry, Maths & Computer Science with 89% merit. During my time at school, I have developed interest in problem solving and algorithimic thinking in computer science which helped me to improve my understanding of any problem and also my mathematical skills to actually solve the problems."
+      }
+    ],
+    "work":[
+      {
+        "company":"Awesome Design Studio",
+        "title":"Senior UX God ",
+        "years":"March 2018 - Present",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Super Cool Studio",
+        "title":"Junior bug fixer",
+        "years":"March 2017 - February 2018",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"60%"
+      },
+      {
+        "name":"C Programming",
+        "level":"75%"
+      },
+      {
+        "name":"C++",
+        "level":"75%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"Flutter and Dart",
+        "level":"60%"
+      },
+      {
+        "name":"SQL",
+        "level":"70%"
+      },
+      {
+        "name":"JAVA",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"ESMS",
+        "category":"Exam Scheduling Management System mobile application built using flutter",
+        "image":"01.jpg",
+        "url":"https://github.com/dharun-narayanan/Exam-Scheduling-Management-System"
+      },
+      {
+        "title":"Login Page",
+        "category":"A login page in flutter",
+        "image":"02.jpg",
+        "url":"https://github.com/dharun-narayanan/Login_Page"
+      },
+      {
+        "title":"Portfolio Website",
+        "category":"A React based resume website.",
+        "image":"04.jpg",
+        "url":"https://dharun-narayanan.github.io/me/"
+      },
+      {
+        "title":"Phantom Studios",
+        "category":"A React based organization website.",
+        "image":"05.jpg",
+        "url":"https://github.com/Phantom-Studiosad"
+      },
+      {
+        "title":"Portfolio Website1",
+        "category":"A React based organization website.",
+        "image":"06.jpg",
+        "url":"https://github.com/dharun-narayanan/sample_portfolio"
+      },
+      {
+        "title":"Phoenix Hospital",
+        "category":"Website I built for an imaginary hospital",
+        "image":"03.jpg",
+        "url":"https://github.com/dharun-narayanan/Phoenix-Hospital"
+      }
+    ]
+  }
+}
